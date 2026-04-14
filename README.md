@@ -424,7 +424,3 @@ To extend the model to other terrain types:
 ## 📄 License
 
 This is a personal project for learning and demonstration purposes.
-
----
-
-*Built with ❤️ using SegFormer & Falcon AI*
